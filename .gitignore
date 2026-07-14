@@ -1,0 +1,15 @@
+# Python 脚本
+*.py
+
+# 压缩包
+*.zip
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.codebuddy/
+.vscode/
+.idea/
+.playwright-cli/
